@@ -1,32 +1,53 @@
 🚀 Amazon-Q-AI — AI-Generated Applications Using Amazon Q Developer
 
-Amazon-Q-AI is a collection of AI-generated applications, agents, and automation workflows built using Amazon Q Developer inside VS Code.
-This repository contains optimized, production-ready code auto-generated and improved by AI, with a clean structure designed for fast development and deployment.
+Amazon-Q-AI is a curated collection of AI-generated applications, tools, and automation workflows, all built using Amazon Q Developer inside VS Code.
+This repository showcases production-ready, clean, and optimized code automatically generated and enhanced by AI — making it a powerful reference for AI-assisted full-stack development.
 
 📌 About This Repository
 
-This repo serves as a centralized space for:
+This repository serves as a centralized hub for all projects created using Amazon Q Developer, including:
 
 AI-generated app prototypes
 
-Modular code components
+Modular and reusable code components
 
-Amazon Q–built agents
+Amazon Q–built agents & automation flows
 
-Auto-generated backend/frontend code
+Auto-generated backend + frontend code
 
-Project experiments & demos
+Experimentation, tools, and working demos
 
-Everything inside this repository is created or enhanced using Amazon Q Developer, making it a perfect reference for AI-assisted software development.
+Everything in this repo is AI-assisted, making it ideal for learning, reference, and development using Amazon Q.
 
-⚙️ Features
+⚙️ Key Features
 
-AI-generated project structure
+AI-generated project structure (clean, modular, scalable)
 
-Clean, readable, optimized code
+Optimized & readable code across Python, Flask, HTML/CSS/JS
 
 Version-controlled Amazon Q outputs
 
-Ready for expansion and manual customization
+Built for rapid development and easy extension
 
-Easy deployment & continuous updates
+Supports deployment-ready modules
+
+Continuously updated with new AI-generated tools
+
+🧩 Live Applications
+🔗 PDF Merger (AI-Generated) — LIVE
+
+The PDF Merger application built using Amazon Q is now live and deployed:
+
+👉 https://amazon-q-ai.onrender.com
+
+This tool allows users to:
+
+Upload multiple PDFs
+
+Reorder pages
+
+Merge into one clean output
+
+Download the final PDF
+
+Enjoy a smooth, responsive UI
